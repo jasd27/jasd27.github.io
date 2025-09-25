@@ -5,3 +5,7 @@ Hi, I’m Jake Stalsitz, a junior tight end on the Lehigh University football te
 ![Profile PIC](https://github.com/jasd27/jasd27.github.io/blob/main/Headshot.jpg?raw=true)
 
 [8th Grade Football Highlights](http://www.hudl.com/video/3/11794418/5d0278015eedad0e3054c547)
+
+Here is my Data Jorunalism in class infographic
+
+![Infograhic PIC](file:///Users/jake/Desktop/Pink%20and%20Blue%20Collage%20Scrapbook%20Data%20Infographic.jpg)
