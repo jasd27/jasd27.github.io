@@ -1,6 +1,7 @@
-# jasd27.github.io
+Hi Everyone!
 
-Hi Friends
+Hi, I’m Jake Stalsitz, a junior tight end on the Lehigh University football team and a Journalism major pursuing my Master’s in Education. I’m originally from Center Valley, Pennsylvania.
 
 ![Profile PIC](https://github.com/jasd27/jasd27.github.io/blob/main/Headshot.jpg?raw=true)
 
+[8th Grade Football Highlights](http://www.hudl.com/video/3/11794418/5d0278015eedad0e3054c547)
