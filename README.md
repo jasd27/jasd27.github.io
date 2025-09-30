@@ -1,4 +1,4 @@
-Hi Everyone!
+<img width="2000" height="4999" alt="image" src="https://github.com/user-attachments/assets/3617f13d-d00f-4425-9cb1-d3147c2e6bc3" />Hi Everyone!
 
 Hi, I’m Jake Stalsitz, a junior tight end on the Lehigh University football team and a Journalism major pursuing my Master’s in Education. I’m originally from Center Valley, Pennsylvania.
 
@@ -10,4 +10,5 @@ Here is my Data Jorunalism in class infographic
 
 ![Infograhic PIC](https://github.com/jasd27/jasd27.github.io/blob/main/Pink%20and%20Blue%20Collage%20Scrapbook%20Data%20Infographic.jpg?raw=true)
 
-![Infograhic PIC 2](Blue and White Modern Market Analysis Report Infographic (1).pdf)
+![Infograhic PIC 2]<img width="2000" height="4999" alt="image" src="https://github.com/user-attachments/assets/c806ce11-4619-4c6b-aa96-8d91dec8ffdb" />
+)
