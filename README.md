@@ -6,7 +6,7 @@ Hi, I’m Jake Stalsitz, a junior tight end on the Lehigh University football te
 
 Here is my Data Jorunalism in class infographic
 
-<img width="8200" height="500" alt="image" src="https://github.com/user-attachments/assets/3b7afad8-1b21-42fa-a04c-20184ffd1358" />
+<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/3b7afad8-1b21-42fa-a04c-20184ffd1358" />
 
 Here is my Data Jorunalism homework infographic
 
