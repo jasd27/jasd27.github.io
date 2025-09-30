@@ -10,5 +10,7 @@ Here is my Data Jorunalism in class infographic
 
 ![Infograhic PIC](https://github.com/jasd27/jasd27.github.io/blob/main/Pink%20and%20Blue%20Collage%20Scrapbook%20Data%20Infographic.jpg?raw=true)
 
-![Infograhic PIC 2]<img width="2000" height="4999" alt="image" src="https://github.com/user-attachments/assets/c806ce11-4619-4c6b-aa96-8d91dec8ffdb" />
-)
+Here is my Data Jorunalism homework infographic
+
+<img width="2000" height="4999" alt="image" src="https://github.com/user-attachments/assets/c806ce11-4619-4c6b-aa96-8d91dec8ffdb" />
+
