@@ -9,3 +9,5 @@ Hi, I’m Jake Stalsitz, a junior tight end on the Lehigh University football te
 Here is my Data Jorunalism in class infographic
 
 ![Infograhic PIC](https://github.com/jasd27/jasd27.github.io/blob/main/Pink%20and%20Blue%20Collage%20Scrapbook%20Data%20Infographic.jpg?raw=true)
+
+![Infograhic PIC 2] https://github.com/jasd27/jasd27.github.io/blob/main/Blue%20and%20White%20Modern%20Market%20Analysis%20Report%20Infographic%20(1).pdf 
