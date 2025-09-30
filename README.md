@@ -10,5 +10,5 @@ Here is my Data Jorunalism in class infographic
 
 Here is my Data Jorunalism homework infographic
 
-<img width="2000" height="4999" alt="image" src="https://github.com/user-attachments/assets/c806ce11-4619-4c6b-aa96-8d91dec8ffdb" />
+<img width="20" height="49" alt="image" src="https://github.com/user-attachments/assets/c806ce11-4619-4c6b-aa96-8d91dec8ffdb" />
 
