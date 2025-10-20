@@ -16,5 +16,5 @@ Here is my Data Jorunalism homework infographic
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vTGjwv7JHhgrSrZON5ZgD1iKpem5OLc9zz9Plpja6DUU1F1pOp0By_STGAhJZMug6Jl44QHkP_eEi6y&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-<iframe src= https://raw.githubusercontent.com/jasd27/jasd27.github.io/refs/heads/main/New%20Clients%20Customer%20Lifetime%20Value.jpg
-
+[<iframe src= https://raw.githubusercontent.com/jasd27/jasd27.github.io/refs/heads/main/New%20Clients%20Customer%20Lifetime%20Value.jpg
+](https://github.com/jasd27/jasd27.github.io/blob/main/New%20Clients%20Customer%20Lifetime%20Value.jpg?raw=true)
