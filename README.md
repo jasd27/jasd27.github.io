@@ -19,7 +19,9 @@ Here is my Data Jorunalism homework infographic
 This chart shows the percentage of deer harvested in Massachusetts by age and sex. Adults and female fawns each made up 46% of the total harvest, while male fawns accounted for only 8%. The even split between adults and female fawns suggests balanced hunting patterns, while the smaller number of male fawns may be due to hunting limits or fewer sightings. Overall, most harvested deer were adults or female fawns, showing that herd management efforts are keeping populations stable. Data was collected from the Massachusetts Division of Fisheries and Wildlife’s 2024 reports.
 <iframe title="" aria-label="Pie Chart" id="datawrapper-chart-a3YBj" src="https://datawrapper.dwcdn.net/a3YBj/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="373" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
-
+This is a map I made in class of the world’s top 20 bicycling cities:
 <iframe src="https://www.google.com/maps/d/embed?mid=1LdukfLSUJCDKQOqbamcgJuccD1pTWOA&ehbc=2E312F" width="640" height="480"></iframe>
 
+
+I made a map of the top places I’ve traveled to. I chose this because it tells a personal story through a visual format, showing the cities that have meant the most to me and where I’ve made lasting memories. Each location pin highlights a different stop along my travels, and by clicking on them you can see more details about what made each place special. I used the coordinates for each city to accurately map out my travel history and create a visual snapshot of my experiences around the world.
 <iframe src="https://www.google.com/maps/d/embed?mid=10_Mi4J5cthHEwGth2JJwtnevf_11FEg&ehbc=2E312F" width="640" height="480"></iframe>
