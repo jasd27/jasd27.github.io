@@ -16,7 +16,7 @@ Here is my Data Jorunalism homework infographic
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vTGjwv7JHhgrSrZON5ZgD1iKpem5OLc9zz9Plpja6DUU1F1pOp0By_STGAhJZMug6Jl44QHkP_eEi6y&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-
+This chart shows the percentage of deer harvested in Massachusetts by age and sex. Adults and female fawns each made up 46% of the total harvest, while male fawns accounted for only 8%. The even split between adults and female fawns suggests balanced hunting patterns, while the smaller number of male fawns may be due to hunting limits or fewer sightings. Overall, most harvested deer were adults or female fawns, showing that herd management efforts are keeping populations stable. Data was collected from the Massachusetts Division of Fisheries and Wildlife’s 2024 reports.
 <iframe title="" aria-label="Pie Chart" id="datawrapper-chart-a3YBj" src="https://datawrapper.dwcdn.net/a3YBj/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="373" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 
