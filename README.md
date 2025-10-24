@@ -17,8 +17,7 @@ Here is my Data Jorunalism homework infographic
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vTGjwv7JHhgrSrZON5ZgD1iKpem5OLc9zz9Plpja6DUU1F1pOp0By_STGAhJZMug6Jl44QHkP_eEi6y&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 
-
-CHARTTTTT
+<iframe title="" aria-label="Pie Chart" id="datawrapper-chart-a3YBj" src="https://datawrapper.dwcdn.net/a3YBj/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="373" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1LdukfLSUJCDKQOqbamcgJuccD1pTWOA&ehbc=2E312F" width="640" height="480"></iframe>
