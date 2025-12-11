@@ -42,7 +42,7 @@ For this project, we used TimelineJS to create interactive timelines that allow 
 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vS-dAA6fholGIMhiSTVId8vUG5z-vtA3eU21dyLl8dtEezH-pRxa5cDrXCPzuSHP4fR2BxYODkCajjQ&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-#### [Dataset^]([https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf]
+#### [Dataset^](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf)
 
 
 ### Here is my Data Jorunalism homework timeline
