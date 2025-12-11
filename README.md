@@ -38,7 +38,7 @@ For this project, we used TimelineJS to create interactive timelines that allow 
 ### Here is my Data Jorunalism in class timeline
 
 #### Description:
-
+This dataset is a chronological collection of major moments in Lehigh football history and related personal milestones, including games, events, photos, and media artifacts. Each entry includes dates, headlines, descriptive text, and images used to build an interactive TimelineJS experience.
 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vS-dAA6fholGIMhiSTVId8vUG5z-vtA3eU21dyLl8dtEezH-pRxa5cDrXCPzuSHP4fR2BxYODkCajjQ&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
@@ -48,7 +48,7 @@ For this project, we used TimelineJS to create interactive timelines that allow 
 ### Here is my Data Jorunalism homework timeline
 
 #### Description:
-
+This is a chronological timeline of meaningful memories between my little brother and me, starting from the day he was born and continuing through the moments that shaped our relationship. Each entry captures a milestone, story, or photo that tells the story of us growing up together.
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vTGjwv7JHhgrSrZON5ZgD1iKpem5OLc9zz9Plpja6DUU1F1pOp0By_STGAhJZMug6Jl44QHkP_eEi6y&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 #### [Dataset^](https://docs.google.com/spreadsheets/d/1QSEjSsoFX6UXTIPkwvOBlKaR0JzTQ9cZ3ARjioBr0W8/edit?gid=0#gid=0)
@@ -70,8 +70,8 @@ This chart shows the percentage of deer harvested in Massachusetts by age and se
 ### Here is my Data Jorunalism in class map
 
 #### Description:
+This is a map I made in class of the world’s top 20 bicycling cities.
 
-This is a map I made in class of the world’s top 20 bicycling cities:
 <iframe src="https://www.google.com/maps/d/embed?mid=1LdukfLSUJCDKQOqbamcgJuccD1pTWOA&ehbc=2E312F" width="640" height="480"></iframe>
 #### [Dataset^](https://docs.google.com/spreadsheets/d/15kH1okITYQcvbl-dFtwX0oVxKr9z4QPLWSoUjVH-vN4/edit?usp=sharing)
 
@@ -86,6 +86,7 @@ I made a map of the top places I’ve traveled to. I chose this because it tells
 ### Here is my Data Jorunalism map that I did for fun
 
 #### Description:
+This interactive map highlights all Amicus Properties’ off-campus student housing locations throughout Bethlehem, giving students a clear visual guide to available homes near Lehigh University. Each marker provides details about the property, helping renters easily explore options and find housing that fits their needs.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1fFGePscWA2aDxYNIo73EKmhkuw2eaWk&ehbc=2E312F" width="640" height="480"></iframe>
 #### [Dataset^](https://docs.google.com/spreadsheets/d/1RhYBM-kaNYCXJjjJZm2zMKjQ0cBf_Ejti1fqeXjnaM0/edit?usp=sharing)
@@ -98,7 +99,7 @@ I made a map of the top places I’ve traveled to. I chose this because it tells
 ### Here is my Data Jorunalism in class tableau
 
 #### Description:
-
+This interactive Tableau dashboard visualizes party location preferences among Lehigh students using data from a 2016 survey. It highlights gender differences, attendance patterns, and how students typically travel to parties, offering an engaging look at campus social trends.
 
 <div class='tableauPlaceholder' id='viz1761834792203' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;PartyLocation_17618347050390&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PartyLocation_17618347050390&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;PartyLocation_17618347050390&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1761834792203'); var vizElement = divElement.getElementsByTagName('object')[0]; if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='777px';} var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
 #### [Dataset^](https://docs.google.com/spreadsheets/d/1IGBO8GJ7Ae0XBHosAMCN0X3yOYlVqATp7OTkeib12C4/edit?usp=sharing)
@@ -106,7 +107,7 @@ I made a map of the top places I’ve traveled to. I chose this because it tells
 ### Here is my Data Jorunalism homework tableau
 
 #### Description:
-
+This Tableau dashboard analyzes party location preferences among Lehigh students using data from a 2016 campus survey. It explores gender differences, attendance habits, and transportation choices, offering a clear interactive look at student social behavior.
 
 <div class='tableauPlaceholder' id='viz1762132116246' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;PartyLocation_17618347050390&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PartyLocation_17618347050390&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;PartyLocation_17618347050390&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1762132116246'); var vizElement = divElement.getElementsByTagName('object')[0]; if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='1527px';} var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
 #### [Dataset^](https://docs.google.com/spreadsheets/d/1IGBO8GJ7Ae0XBHosAMCN0X3yOYlVqATp7OTkeib12C4/edit?usp=sharing)
@@ -114,5 +115,6 @@ I made a map of the top places I’ve traveled to. I chose this because it tells
 ### Here is my Data Jorunalism homework tableau
 
 #### Description:
+This interactive map visualizes major U.S. cities by population size and population density, using color and point size to highlight how densely or sparsely populated different regions are. It offers an easy way to compare urban areas across the country and identify patterns in where people live.
 
 <div class='tableauPlaceholder' id='viz1762963051903' style='position: relative'><noscript><a href='#'><img alt='Sheet 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ST&#47;STATES_17628759521480&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='STATES_17628759521480&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ST&#47;STATES_17628759521480&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1762963051903'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
