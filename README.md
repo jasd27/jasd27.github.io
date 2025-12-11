@@ -29,6 +29,8 @@ https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf
 This infographic summarizes the 2024 deer harvest using multiple visualizations that break down harvest totals by season, sex, wildlife management zone, and implement type. It highlights that archery and shotgun seasons account for the majority of harvested deer, with detailed statewide totals and a comparison of harvest patterns across zones. Overall, it provides a clear snapshot of how, when, and where deer were harvested throughout the season.
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"> <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" src="https://www.canva.com/design/DAG2X2rshiE/86qRLcweDxkISgklHvxHuQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"> </iframe> </div> <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAG2X2rshiE&#x2F;86qRLcweDxkISgklHvxHuQ&#x2F;view utm_content=DAG2X2rshiE&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">New Clients Customer Lifetime Value</a> by Jake Stalsitz
+#### Dataset:
+https://docs.google.com/spreadsheets/d/1NlddTFn3Stg6c_3YVRKanhFfbMO_cjatnGXzaQP8-GA/edit?usp=sharing
 
 
 ## Timeline
@@ -64,9 +66,11 @@ https://docs.google.com/spreadsheets/d/1QSEjSsoFX6UXTIPkwvOBlKaR0JzTQ9cZ3ARjioBr
 This chart shows the percentage of deer harvested in Massachusetts by age and sex. Adults and female fawns each made up 46% of the total harvest, while male fawns accounted for only 8%. The even split between adults and female fawns suggests balanced hunting patterns, while the smaller number of male fawns may be due to hunting limits or fewer sightings. Overall, most harvested deer were adults or female fawns, showing that herd management efforts are keeping populations stable. Data was collected from the Massachusetts Division of Fisheries and Wildlife’s 2024 reports.
 
 <iframe title="" aria-label="Pie Chart" id="datawrapper-chart-a3YBj" src="https://datawrapper.dwcdn.net/a3YBj/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="373" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+#### Dataset:
+https://docs.google.com/spreadsheets/d/1NlddTFn3Stg6c_3YVRKanhFfbMO_cjatnGXzaQP8-GA/edit?usp=sharing
+
 
 ## Google My Maps
-
 
 ### Here is my Data Jorunalism in class map
 
@@ -74,18 +78,28 @@ This chart shows the percentage of deer harvested in Massachusetts by age and se
 
 This is a map I made in class of the world’s top 20 bicycling cities:
 <iframe src="https://www.google.com/maps/d/embed?mid=1LdukfLSUJCDKQOqbamcgJuccD1pTWOA&ehbc=2E312F" width="640" height="480"></iframe>
+#### Dataset:
+https://docs.google.com/spreadsheets/d/15kH1okITYQcvbl-dFtwX0oVxKr9z4QPLWSoUjVH-vN4/edit?usp=sharing
 
 ### Here is my Data Jorunalism homework map
 
 #### Description:
 I made a map of the top places I’ve traveled to. I chose this because it tells a personal story through a visual format, showing the cities that have meant the most to me and where I’ve made lasting memories. Each location pin highlights a different stop along my travels, and by clicking on them you can see more details about what made each place special. I used the coordinates for each city to accurately map out my travel history and create a visual snapshot of my experiences around the world.
 <iframe src="https://www.google.com/maps/d/embed?mid=10_Mi4J5cthHEwGth2JJwtnevf_11FEg&ehbc=2E312F" width="640" height="480"></iframe>
+#### Dataset:
+https://docs.google.com/spreadsheets/d/1LBq78jXVV7FRKVglNB5x_EqL8m43dw9VwuoiTgt_hyY/edit?usp=sharing
+
 
 ### Here is my Data Jorunalism map that I did for fun
 
 #### Description:
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1fFGePscWA2aDxYNIo73EKmhkuw2eaWk&ehbc=2E312F" width="640" height="480"></iframe>
+#### Dataset:
+https://docs.google.com/spreadsheets/d/1RhYBM-kaNYCXJjjJZm2zMKjQ0cBf_Ejti1fqeXjnaM0/edit?usp=sharing
+
+
+
 
 ## Tableau 
 
