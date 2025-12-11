@@ -8,11 +8,22 @@ Hi, I’m Jake Stalsitz, a junior tight end on the Lehigh University football te
 
 [8th Grade Football Highlights](http://www.hudl.com/video/3/11794418/5d0278015eedad0e3054c547)
 
+
+## Infographic
+
+
 Here is my Data Jorunalism in class infographic
 
 <img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/3b7afad8-1b21-42fa-a04c-20184ffd1358" />
 
+
 Here is my Data Jorunalism homework infographic
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"> <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" src="https://www.canva.com/design/DAG2X2rshiE/86qRLcweDxkISgklHvxHuQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"> </iframe> </div> <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAG2X2rshiE&#x2F;86qRLcweDxkISgklHvxHuQ&#x2F;view utm_content=DAG2X2rshiE&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">New Clients Customer Lifetime Value</a> by Jake Stalsitz
+
+
+
+
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vSVEcrWhHl13ENSGu-4PlXQVNHl0iivORsKhXp_Oi5skScb3WYkfW2pWnj7IYGp1a5dkSz3M-X58SKA&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
