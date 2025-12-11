@@ -2,21 +2,29 @@
 
 ## Bio
 
-Hi, I’m Jake Stalsitz, a junior tight end on the Lehigh University football team and a Journalism major pursuing my Master’s in Education. I’m originally from Center Valley, Pennsylvania.
+I’m Jake Stalsitz, a student-athlete at Lehigh University majoring in Journalism while earning my master’s in Elementary Education. I play tight end on the Lehigh football team and write for The Brown and White, where I cover sports and campus stories. I’m also a Team IMPACT Fellow, working to support children and families through community engagement. I’m passionate about mentorship, storytelling, and helping others feel supported and connected.
 
 <img width="180" height="300" alt="image" src="https://github.com/user-attachments/assets/6b897fd8-e91c-4742-9da0-79060bf7e3c1" />
 
-[8th Grade Football Highlights](http://www.hudl.com/video/3/11794418/5d0278015eedad0e3054c547)
+### Intrested in My Early Playing Days?
 
+[8th Grade Football Highlights](http://www.hudl.com/video/3/11794418/5d0278015eedad0e3054c547)
 
 ## Infographic
 
+For this project, we used Canva to design interactive infographics that visually highlight key admission data and insights. This page showcases how those tools helped us present complex information in a clear, engaging, and user-friendly format.
 
 Here is my Data Jorunalism in class infographic
+
+Description:
+This infographic provides a snapshot of Lehigh University’s 2024 first-year admissions, showing total applications, offers, and matriculants, along with the university’s selectivity and yield rates. It also visualizes how the incoming class is distributed across the five colleges and breaks down enrollment by gender. 
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"> <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" src="https://www.canva.com/design/DAGz_Qoew-A/nkVXklJMYbyydtro97e0BQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"> </iframe> </div> <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGz_Qoew-A&#x2F;nkVXklJMYbyydtro97e0BQ&#x2F;view?utm_content=DAGz_Qoew A&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Pink and Blue Collage Scrapbook Data Infographic</a> by Jake Stalsitz
 
 Here is my Data Jorunalism homework infographic
+
+Description: 
+This infographic summarizes the 2024 deer harvest using multiple visualizations that break down harvest totals by season, sex, wildlife management zone, and implement type. It highlights that archery and shotgun seasons account for the majority of harvested deer, with detailed statewide totals and a comparison of harvest patterns across zones. Overall, it provides a clear snapshot of how, when, and where deer were harvested throughout the season.
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"> <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" src="https://www.canva.com/design/DAG2X2rshiE/86qRLcweDxkISgklHvxHuQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"> </iframe> </div> <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAG2X2rshiE&#x2F;86qRLcweDxkISgklHvxHuQ&#x2F;view utm_content=DAG2X2rshiE&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">New Clients Customer Lifetime Value</a> by Jake Stalsitz
 
