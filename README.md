@@ -28,7 +28,7 @@ This infographic provides a snapshot of Lehigh University’s 2024 first-year ad
 This infographic summarizes the 2024 deer harvest using multiple visualizations that break down harvest totals by season, sex, wildlife management zone, and implement type. It highlights that archery and shotgun seasons account for the majority of harvested deer, with detailed statewide totals and a comparison of harvest patterns across zones. Overall, it provides a clear snapshot of how, when, and where deer were harvested throughout the season.
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"> <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" src="https://www.canva.com/design/DAG2X2rshiE/86qRLcweDxkISgklHvxHuQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"> </iframe> </div> <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAG2X2rshiE&#x2F;86qRLcweDxkISgklHvxHuQ&#x2F;view utm_content=DAG2X2rshiE&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">New Clients Customer Lifetime Value</a> by Jake Stalsitz
-#### [Dataset^]([https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf](https://docs.google.com/spreadsheets/d/1NlddTFn3Stg6c_3YVRKanhFfbMO_cjatnGXzaQP8-GA/edit?usp=sharing)
+#### [Dataset^](https://docs.google.com/spreadsheets/d/1NlddTFn3Stg6c_3YVRKanhFfbMO_cjatnGXzaQP8-GA/edit?usp=sharing)
 
 
 ## Timeline
